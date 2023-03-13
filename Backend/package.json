@@ -1,0 +1,12 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "u build",
+    "dev": "u dev",
+    "test": "u test"
+  },
+  "devDependencies": {
+    "u-scripts": "*"
+  }
+}
